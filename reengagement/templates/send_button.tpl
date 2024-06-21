@@ -1,0 +1,1 @@
+<input class="SmallButton" type="button" style="width: 150px;" onclick="javascript: document.location='{$AdminUrl}';" value="{$lang.Addon_reengagement_Stats_SendButton}" name="SendReEngagementButton"/>

@@ -1,0 +1,1 @@
+<input class="SmallButton" type="button" style="width: 150px;" onclick="window.location.href='{$AdminUrl}&Action=create';" value="{$lang.Addon_reengagement_CreateButton}" name="AddReEngagementButton" id="AddReEngagementButton" />

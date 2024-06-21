@@ -1,0 +1,7 @@
+<addon_description>
+	<name>IEMAddons: Exclude List</name>
+	<description>Exclude list from campaign, import, and autoresponders</description>
+	<author>IEM Addons</author>
+	<version>3.0</version>
+	<hasconfiguration>0</hasconfiguration>
+</addon_description>
